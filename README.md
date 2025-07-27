@@ -94,6 +94,9 @@ This repo is not just for me — it’s for you too.
 Feel free to connect, fork, or message me.
 Let’s grow together.
 
+---
+
+### Star if this helped you ⭐
 
 ---
 
