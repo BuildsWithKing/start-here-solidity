@@ -1,4 +1,4 @@
-# 🪄 If You’re New to Solidity, Start Here...
+# 🪄 New to Solidity? Learn with Michealking.
 
 Welcome, builder 👋
 
